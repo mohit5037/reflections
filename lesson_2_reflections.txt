@@ -1,0 +1,4 @@
+When a initialize the repo the git makes a new hidden directory inside my directory named as ".git".
+We need to do it because from this point onwards we want git to keep track of changes in this directory
+
+
