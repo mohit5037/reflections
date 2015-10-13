@@ -1,0 +1,12 @@
+Diff described in the lesson one will prove to be very useful for me, especially
+When I use to compare two files, e.g gradle files of android project
+in which I have to pin point even the slightest difference which is sometimes
+not visible with the naked eye.
+
+Having easy access to previous versions gives me an opportunity to quickly correct things which were working previously but stopped working now.
+
+I think the only con of manual commits is you end up loosing your work if you 
+don't commit frequently. On the other hand it gives you advantage of choosing when you want to commit, otherwise there would be so many commits if there was automatic saving like in google docs.
+
+Allowing multiple files in a commit is really a great feature as it allivates us from the onus of syncing the times of each file commit one by one. In most of the coding projects all that matters is the environment so even if a single file is changed we should save the whole environment with that commit so that when user choose to restore that file the whole environment comes with it.
+
